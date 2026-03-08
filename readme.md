@@ -18,6 +18,7 @@
 | Rubbish Journal    | https://github.com/gokuscraper/rubbish-journal-pdf  |
 | Joker of Academics | https://github.com/gokuscraper/jokerofacademics-pdf |
 | Shit Journal       | https://github.com/gokuscraper/shit-journal-pdf     |
+| shift-journal      | https://github.com/gokuscraper/shift-journal-pdf    |
 
 ## 项目结构
 
@@ -37,3 +38,17 @@
 2. 提供期刊官网链接
 
 如果适合收录，我会编写Python采集脚本并加入项目。
+
+
+
+# 联系方式
+
+悟空爬虫提供专业的数据采集服务，
+
+如果您有合法合规的需求，欢迎联系我们。
+
+**官网** : [https://www.gokuscraper.com](https://www.gokuscraper.com)
+
+
+
+![image-20260307013902058](https://assets.gokuscraper.com/images/2026/03/07/ed05c48e6f61b63d.webp)
